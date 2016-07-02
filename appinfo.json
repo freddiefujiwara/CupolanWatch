@@ -30,6 +30,16 @@
                 "type": "font"
             },
             {
+                "file": "images/cupolan-pose0.png",
+                "name": "IMAGES_CUPOLAN_POSE0_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose9.png",
+                "name": "IMAGES_CUPOLAN_POSE9_PNG",
+                "type": "bitmap"
+            },
+            {
                 "file": "images/cupolan-pose8.png",
                 "name": "IMAGES_CUPOLAN_POSE8_PNG",
                 "type": "bitmap"
