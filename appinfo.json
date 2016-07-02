@@ -28,6 +28,46 @@
                 "file": "fonts/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
+            },
+            {
+                "file": "images/cupolan-pose8.png",
+                "name": "IMAGES_CUPOLAN_POSE8_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose7.png",
+                "name": "IMAGES_CUPOLAN_POSE7_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose6.png",
+                "name": "IMAGES_CUPOLAN_POSE6_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose5.png",
+                "name": "IMAGES_CUPOLAN_POSE5_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose4.png",
+                "name": "IMAGES_CUPOLAN_POSE4_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose3.png",
+                "name": "IMAGES_CUPOLAN_POSE3_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose2.png",
+                "name": "IMAGES_CUPOLAN_POSE2_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/cupolan-pose1.png",
+                "name": "IMAGES_CUPOLAN_POSE1_PNG",
+                "type": "bitmap"
             }
         ]
     },
