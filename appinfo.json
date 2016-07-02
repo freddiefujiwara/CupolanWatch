@@ -33,11 +33,16 @@
     },
     "sdkVersion": "3",
     "shortName": "CupolanWatch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
     "uuid": "33d7555d-36b1-44d1-959f-4f100f07e47f",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
         "hiddenApp": false,
-        "watchface": false
+        "watchface": true
     }
 }
