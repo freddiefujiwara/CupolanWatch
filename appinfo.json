@@ -10,7 +10,6 @@
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "bitmap"
             },
@@ -31,6 +30,7 @@
             },
             {
                 "file": "images/cupolan-pose0.png",
+                "menuIcon": true,
                 "name": "IMAGES_CUPOLAN_POSE0_PNG",
                 "type": "bitmap"
             },
@@ -84,7 +84,6 @@
     "sdkVersion": "3",
     "shortName": "CupolanWatch",
     "targetPlatforms": [
-        "aplite",
         "basalt",
         "chalk"
     ],
